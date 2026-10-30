@@ -1,0 +1,6 @@
+{
+  "name": "CBT Pendidikan Pancasila XI",
+  "description": "Aplikasi Ujian CBT Pendidikan Pancasila Kelas XI SMK/SMA dengan materi Bab 1 dan Bab 2 Kurikulum Merdeka serta integrasi nilai ke Spreadsheet guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
