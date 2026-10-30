@@ -1,7 +1,9 @@
 {
-  "name": "react-example",
-  "private": true,
-  "version": "0.0.0",
+  "name": "cbt-pendidikan-pancasila-xi",
+  "version": "1.0.0",
+  "description": "Aplikasi CBT Asesmen Pendidikan Pancasila Kelas XI Terintegrasi Google Spreadsheet",
+  "license": "MIT",
+  "private": false,
   "type": "module",
   "scripts": {
     "dev": "vite --port=3000 --host=0.0.0.0",
